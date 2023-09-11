@@ -20,7 +20,3 @@ This GitHub repository contains the code and documentation for a project that ai
 
 6. **Open-Ended Exploration:** Address the open-system 3-level problem, incorporating all contributions: spontaneous emission, stimulated emission, and absorption into the Master Equation. Analyze the insights gained from this comprehensive approach.
 
-## Conclusion
-
-Through rigorous analysis and numerical simulations, this project aims to provide a deeper understanding of the practical implications and limitations of Raman coupling in the context of quantum computation. Join us in exploring this intriguing quantum phenomenon.
-
