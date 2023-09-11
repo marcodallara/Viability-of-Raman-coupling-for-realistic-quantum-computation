@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In the ever-evolving field of quantum computing, the search for novel techniques to manipulate and control quantum states is unceasing. One such intriguing avenue is Raman coupling, a phenomenon that enables the dynamic coupling of two long-lived atomic levels, |0⟩ and |1⟩, which do not possess a direct dipole transition. This coupling is achieved by employing an intermediate level, |e⟩, which is strongly optically coupled to both |0⟩ and |1⟩ via electric dipole interactions. By carefully adjusting the detunings and amplitudes of two lasers, it becomes possible to induce a complete transition from |0⟩ to |1⟩ without significantly populating the short-lived intermediate level, albeit at second-order perturbation theory. Remarkably, the fast decay of the intermediate level seems to have little impact on the overall process.
+In the ever-evolving field of quantum computing, the search for novel techniques to manipulate and control quantum states is unceasing. One such intriguing avenue is Raman coupling, a phenomenon that enables the dynamic coupling of two long-lived atomic levels, |0⟩ and |1⟩, which do not possess a direct dipole transition. This coupling is achieved by employing an intermediate level, |e⟩, which is strongly optically coupled to both |0⟩ and |1⟩ via electric dipole interactions. By carefully adjusting the detunings and amplitudes of two lasers, it becomes possible to induce a complete transition from |0⟩ to |1⟩ without significantly populating the short-lived intermediate level, albeit at second-order perturbation theory. Consequently, the fast decay of the intermediate level does not really have an impact. But how much true is all of that?
 
 ## Project Objectives
 
