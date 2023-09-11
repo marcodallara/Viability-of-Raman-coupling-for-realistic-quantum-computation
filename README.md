@@ -6,7 +6,7 @@ In the ever-evolving field of quantum computing, the search for novel techniques
 
 ## Project Objectives
 
-This GitHub repository contains the code and documentation for a project that aims to investigate the viability of Raman coupling for realistic quantum computation. The project is structured around a series of questions and investigations:
+This GitHub repository contains the code and documentation for a project that aims to investigate the viability of Raman coupling for realistic quantum computation. The project is structured around a series of questions:
 
 1. **Line Broadening and Interference:** Explore the behavior of spectral lines resulting from spontaneous emissions from level |e⟩ into each of the two lower-energy levels, |0⟩ and |1⟩. Investigate whether these spectral lines broaden and whether there is interference between the two emission processes.
 
